@@ -81,9 +81,9 @@ The SVM model successfully classifies cat and dog images after preprocessing and
 
 Example Output:
 
-Accuracy: 85%
 
-(Accuracy may vary depending on dataset size and preprocessing.)
+<img width="645" height="198" alt="image" src="https://github.com/user-attachments/assets/4c9cf7b9-431a-47a9-8647-17b541360e78" />
+
 
 🔮 Future Improvements
 
